@@ -1,0 +1,8 @@
+<html>
+  <body>
+    <form action="http://192.168.1.107:3005/switch/addswitchresult.html" method="POST">
+      Switch Name : <input type="text" name = "switchName">
+      Port Name : <input type="text" name = "portName">
+    <input type="submit" name="submit"></form>
+  </body>
+</html>
